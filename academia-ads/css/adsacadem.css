@@ -7,7 +7,7 @@ h1, h2, h3 {
     font-family: Montserrat, sans-serif;
 }
 
-.navbar-brand-bona {
+.navbar-brand-acad {
     height: 34px;
     margin-top: -6px;
 }
@@ -16,7 +16,7 @@ h1, h2, h3 {
     background-color: #cee7ef
 }
 
-.bona-prato-imagem {
+.acad-prato-imagem {
     width: 100%;
     border: 6px solid #eee;
 }
